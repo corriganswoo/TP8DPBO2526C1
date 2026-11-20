@@ -2,8 +2,7 @@
 **Tugas Praktikum 8 — Desain dan Pemrograman Berbasis Objek (MVC PHP)**  
 **Irsyad Afif Musyaffa (2508023) — Ilmu Komputer C1 Universitas Pendidikan Indonesia**
 
-**JANJI**
-Saya Bintang Fajar Putra Pamungkas mengerjakan evaluasi Tugas Praktikum 10 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya. Oleh karena itu, saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Irsyad Afif Musyaffa mengerjakan evaluasi Tugas Praktikum 8 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya. Oleh karena itu, saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 Sistem informasi akademik sederhana berbasis **PHP Native (OOP)** dan **MySQL** yang menerapkan pola arsitektur **Model–View–Controller (MVC)** dengan antarmuka **Bootstrap 5**. Aplikasi ini mengelola data utama:
 * **Lecturers** (Data Dosen)

@@ -138,4 +138,8 @@ Database **`tp_mvc25`** terdiri dari 2 tabel yang saling berelasi (*One-to-Many*
 
 ## 🎥 Dokumentasi & Demo Program
 
-*(Letakkan screenshot ERD/phpMyAdmin atau video screen record hasil running CRUD pada bagian ini, atau arahkan ke folder `Dokumentasi/`)*
+
+
+https://github.com/user-attachments/assets/d2dea1f3-4c8c-4284-b356-0fb3a4fecde2
+
+

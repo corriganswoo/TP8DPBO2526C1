@@ -111,6 +111,8 @@ Aplikasi memisahkan logika bisnis, akses database, dan tampilan antarmuka agar k
 
 ## 🗄️ Struktur Database (`tp_mvc25.sql`)
 
+<img width="475" height="200" alt="image" src="https://github.com/user-attachments/assets/9269b122-eea8-4cf2-b7db-93053bc305ab" />
+
 Database **`tp_mvc25`** terdiri dari 2 tabel yang saling berelasi (*One-to-Many* dengan `ON DELETE CASCADE`):
 
 ### 1. Tabel `lecturers` (Tabel Induk)
